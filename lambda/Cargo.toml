@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "fitness-score-def",
+    "fitness-score-get",
+    "fitness-score-store",
+]
